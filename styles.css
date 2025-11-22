@@ -1,40 +1,6 @@
-body {
-    background: #22272d;
-    color:white;
-}
-
-.form-control {
-    color: #ffffff;
-    background-color: #3e4c5c;
-    background-clip: padding-box;
-    border: 1px solid #5b7088;
-}
-
-.form-control:focus {
-    color: #ffffff;
-    background-color: #3e4c5c;
-    background-clip: padding-box;
-    border: 1px solid #5b7088;
-}
-
-option {
-    color: #ffffff;
-    background-color: #3e4c5c;
-    background-clip: padding-box;
-    border: 1px solid #5b7088;
-}
-
-.btn {
-    margin-top: 14px;
-}
-
-.form-row {
-    display: contents;
-}
-
-.input {
-    display: flex;
-    gap: 10px;
-    flex-direction: column;
-    flex:1;
-}
+body { font-family: Arial, sans-serif; margin: 20px; background: #f9f9f9; }
+h2 { text-align: center; color: #333; }
+table { border-collapse: collapse; width: 100%; margin: 20px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+th, td { padding: 12px; border: 1px solid #ddd; text-align: center; }
+th { background: #4CAF50; color: white; }
+p { text-align: center; font-size: 0.9em; color: #777; }
